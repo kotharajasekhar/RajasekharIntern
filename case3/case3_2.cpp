@@ -2,7 +2,7 @@
  *	FILENAME	:case_1.cpp
  *	DATE		:09-04-2020
  * 	AUTHOR		:K.V.RAJA SEKHAR
- *	LIBRARIES USED	:iostream,stdlib.h,typeinfo,bits/stdc++.h,string.h
+ *	LIBRARIES USED	:iostream,stdlib.h
  */
 
 
